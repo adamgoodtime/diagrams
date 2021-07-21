@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T16:35:57.985Z" agent="5.0 (Windows)" etag="o2UKpDeWDookA135f82r" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T13:25:56.753Z" agent="5.0 (Windows)" etag="7NB5rNC5MwDMR0KV1kCd" version="14.8.0" type="github">
   <diagram id="GE_s1mTDHEq6owuLV0XP" name="Page-1">
-    <mxGraphModel dx="1422" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1038" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -709,8 +709,8 @@
             <mxPoint x="248.7500000000041" y="469.9990909090909" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k3QAAfPR_TVCjGvHiEy7-150" value="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;$$OUT = F(IN *&amp;nbsp; w_{1})$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="110.78999999999999" y="910" width="140" height="20" as="geometry" />
+        <mxCell id="k3QAAfPR_TVCjGvHiEy7-150" value="OUT = F(\sum_{N} IN_{n} *&amp;nbsp; w_{n})&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80.78999999999999" y="910" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k3QAAfPR_TVCjGvHiEy7-151" value="IN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="472.95" y="845.3927272727274" width="30" height="20" as="geometry" />
